@@ -1,0 +1,1 @@
+Write me a python file that uses open ai's api to get the weather of philadelphia. just a mock one.
